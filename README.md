@@ -9,8 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joão pedro mendes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão pedro mendes" height="30" width="40" /></a>
-<a href="mailto:joaopedroomp5@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joão pedro mendes" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão pedro mendes" height="30" width="40" />
+  </a>
+  <a href="mailto:joaopedroomp5@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
